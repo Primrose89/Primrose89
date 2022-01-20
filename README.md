@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML 
 - 💞️ I’m looking to collaborate on Wix
-- 📫 How to reach me Facebook
+- 📫 You can reach me on Instagram 
 
 <!---
 Primrose89/Primrose89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
